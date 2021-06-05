@@ -28,7 +28,7 @@ Se bem conduzida, este tipo de arquitetura pode levar o projeto a alcançar a sa
 
 [Arquitetura de Dados: Estruturados](ArquiteturaDeDadosEstruturados.md)
 
-[Arquitetura de Dados: Semi Estruturados](ArquiteturaDeDadosEstruturados.md)(ArquiteturaDeDadosSemiEstruturados.md)
+[Arquitetura de Dados: Semi Estruturados](ArquiteturaDeDadosSemiEstruturados.md)
 
 [Arquitetura de Dados: Não Estruturados](ArquiteturaDeDadosNãoEstruturados.md)
 
@@ -39,6 +39,3 @@ Se bem conduzida, este tipo de arquitetura pode levar o projeto a alcançar a sa
 [Business Intelligence](BusinessIntelligence.md)
 
 [Mensageria Protocolo](MensageriaProtocolo.md)
-
-
-
