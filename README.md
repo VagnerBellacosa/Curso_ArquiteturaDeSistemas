@@ -26,7 +26,11 @@ Se bem conduzida, este tipo de arquitetura pode levar o projeto a alcançar a sa
 
 ### Veja tambem
 
-[Arquitetura de Dados Não Estruturados](ArquiteturaDeDadosNãoEstruturados.md)
+[Arquitetura de Dados: Estruturados](ArquiteturaDeDadosEstruturados.md)
+
+[Arquitetura de Dados: Semi Estruturados](ArquiteturaDeDadosEstruturados.md)(ArquiteturaDeDadosSemiEstruturados.md)
+
+[Arquitetura de Dados: Não Estruturados](ArquiteturaDeDadosNãoEstruturados.md)
 
 [Desenvolvimento e Operação de Software Integrado](DesenvolvimentoEOperaçãoDeSoftwareIntegrado.md)
 
